@@ -10,7 +10,7 @@ public class SpringContainerApp {
 
 	public static void main(String[] args) {
 //		testBeanFactory();
-		testApplicationContext();
+		testApplicationContext();	//	컴포넌트 등록
 	}
 
 	private static void testApplicationContext() {
